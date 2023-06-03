@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820141636415",
+    "project_id": "library-8632d",
+    "storage_bucket": "library-8632d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820141636415:android:a3438c1151d70e51b3b18a",
+        "android_client_info": {
+          "package_name": "com.moni.library"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820141636415-8h7jda8rjj8chp2o1sdfbukk7mdhaiil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCuW43-GV5KNKvtx8fLXq0Jv2Y2VU3Wz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820141636415-8h7jda8rjj8chp2o1sdfbukk7mdhaiil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
